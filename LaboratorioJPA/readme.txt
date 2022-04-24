@@ -1,0 +1,1 @@
+﻿El efecto que tuvo la aplicacion al agregar la relacion @OneToMany en la entidad Competitor es que de esta manera se puede obtener la colección de objetos de la entidad "Producto", y que esto a su vez permite acceder a los atribitus de ambos.
